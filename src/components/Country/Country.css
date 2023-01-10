@@ -1,0 +1,14 @@
+.country-container{
+    width: 85%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 10px;
+}
+.country-details{
+    background-color: #ddd;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 5px;
+    align-items: center;
+    padding: 20px;
+}

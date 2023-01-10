@@ -1,0 +1,44 @@
+.countries-container{
+    background-color: white;
+    width: 85%;
+    margin: 0 auto;
+    padding: 10px;
+}
+.country-name{
+    background-color: #ddd;
+    padding: 10px;
+}
+.country-name h2{
+    color: #58595a;
+    text-align: center;
+}
+.country-list{
+    padding: 20px;
+    width: 80%;
+    height: 300px;
+    border: 1px solid black;
+    overflow: scroll;
+    margin: 0 auto;
+}
+.country-div{
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+.country-div h3{
+    color: #58595a;
+    text-align: center;
+}
+.country li{
+    list-style: none;
+}
+.country li a{
+    text-decoration: none;
+    color: #58595a;
+    font-size: 18px;
+    line-height: 1.5em;
+}
+.country li a:hover{
+    color: blue;
+}

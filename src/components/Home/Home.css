@@ -1,0 +1,39 @@
+.main-container{
+    width: 85%;
+    background-color: white;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.image-1 img{
+    width: 100%;
+    border-radius: 5px;
+}
+.image-2{
+    width: 55%;
+}
+.image-2 img{
+    width: 100%;
+    margin-top: 20px;
+}
+.article{
+    width: 40%;
+}
+.article p{
+    line-height: 2em;
+    font-size: 18px;
+    text-align: justify;
+
+}
+.article button{
+    background-color: #529CBE;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 20px;
+    font-size: 18px;
+    color: white;
+}
+.article-container{
+    display: flex;
+    justify-content: space-between;
+}

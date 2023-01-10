@@ -1,0 +1,31 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+.logo img{
+    width: 50%;
+}
+.header-container{
+    padding: 10px;
+    background-color: white;
+    width: 85%;
+    margin: 0 auto;
+}
+.nav{
+
+}
+.nav a{
+    text-decoration: none;
+    margin-right: 50px;
+    color: black;
+    font-size: 18px;
+}
+.nav a:hover{
+    color: blue;
+}
+.active{
+    border-bottom: 2px solid blue;
+}
